@@ -16,14 +16,11 @@ Here's what I'm good at:
 ## 📚Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnielo).
 
-**
-
 ## ⚒️Tools
 - Language: SQL, Python
 - Database: PostgreSQL
 - Visualization: Tableau, Power BI
 
-**
 ## 🖥️Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/mcandrewnielo/)
