@@ -1,4 +1,4 @@
-# Introduction
+## 🙆‍♂️Introduction
 <div align="center"><img src="https://github.com/mcnielo/mcnielo/blob/main/banner.png" alt="Image"></div>
 
 
@@ -13,20 +13,19 @@ Here's what I'm good at:
 - Making snazzy dashboards using Tableau.
 - Playing around with data and making reports in Google Sheets and Excel.
 
-***
-
-# Projects
+## 📚Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnielo).
 
-***
+**
 
-# Tools
+## ⚒️Tools
 - Language: SQL, Python
 - Database: PostgreSQL
 - Visualization: Tableau, Power BI
 
-***
-# Social Media
+**
+## 🖥️Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/mcandrewnielo/)
 
+***
