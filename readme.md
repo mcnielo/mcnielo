@@ -1,6 +1,6 @@
 # Introduction
 <div align="center"><img src="https://github.com/mcnielo/mcnielo/blob/main/banner.png" alt="Image"></div>
-![banner]([Image URL](https://github.com/mcnielo/mcnielo/blob/main/banner.png))
+
 
 ***
 
