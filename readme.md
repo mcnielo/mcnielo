@@ -14,7 +14,7 @@ Here's what I'm good at:
 - Playing around with data and making reports in Google Sheets and Excel.
 
 ## 📚Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnielo/Portfolio-Summary/edit/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnielo/Portfolio-Summary/tree/main#readme).
 
 ## ⚒️Tools
 - Language: SQL, Python
