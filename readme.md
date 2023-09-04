@@ -19,7 +19,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnie
 ## ⚒️Tools
 - Language: SQL, Python
 - Database: PostgreSQL
-- Visualization: Tableau, Power BI
+- Visualization: Tableau
 
 ## 🖥️Social Media
 
