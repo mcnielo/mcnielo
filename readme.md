@@ -17,9 +17,9 @@ Here's what I'm good at:
 Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnielo/Portfolio-Summary/tree/main#readme).
 
 ## ⚒️Tools
-- Language: SQL, Python
-- Database: PostgreSQL
-- Visualization: Tableau
+- Language: SQL, Python, R, VBA
+- Data Tools: Power Query, Power BI, DAX
+- Visualization: Power BI, Tableau, Looker Studio, R Shiny
 
 ## 🖥️Social Media
 
@@ -27,3 +27,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnie
 - [Tableau](https://public.tableau.com/app/profile/mcandrew.nielo)
 
 ***
+
