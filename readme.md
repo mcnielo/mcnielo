@@ -10,7 +10,7 @@ Here's what I'm good at:
 
 - Digging into data with SQL queries.
 - Creating reports and diving into data with SQL.
-- Making snazzy dashboards using Tableau.
+- Making snazzy dashboards using Tableau/Power BI.
 - Playing around with data and making reports in Google Sheets and Excel.
 
 ## 📚Projects
@@ -27,4 +27,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/mcnie
 - [Tableau](https://public.tableau.com/app/profile/mcandrew.nielo)
 
 ***
+
 
